@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-a-elngar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-a-elngar" /> </p>
 
-- 🔭 I’m currently working on [Albadr Sales](https://albadrsales.com/)
+- 🔭 I’m currently open to work
 
 - 🌱 I’m currently learning **laravel, vue**
 
