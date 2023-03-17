@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently open to work
 
-- 🌱 I’m currently learning **laravel, vue**
+- 🌱 I’m currently learning **graphQl, vue**
 
-- 💬 Ask me about **php, mysql, problem solving**
+- 💬 Ask me about **php, laravel, mysql, problem solving**
 
 - 📫 How to reach me **aelngar965@gmail.com**
 
